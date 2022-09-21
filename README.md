@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Yijie
+- 👀 I have a great passion in data analytics and enojoy the process of delivering valuable data insights
+- 🌱 I am open to absorb new knowledge related to data science and keep learning
